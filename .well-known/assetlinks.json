@@ -1,0 +1,14 @@
+{
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sigmasoftware.clubapp",
+    "sha256_cert_fingerprints": [
+      "AE:9B:AE:6E:22:7D:E9:3F:50:E9:59:B6:9F:17:18:49:8A:AD:DD:AE:91:9B:D8:BE:54:7B:11:01:17:62:98:EF",
+      "B0:4F:F0:84:2E:42:46:C4:42:A3:83:A8:CE:38:15:BD:94:CD:AA:51:1E:BB:7C:8D:E8:B1:42:46:3A:17:C6:9A",
+      "78:8A:3C:5F:D9:C1:82:B9:19:EF:C2:33:99:64:67:DA:7E:B4:A7:7C:16:2E:DD:4E:AA:F2:BC:2A:B9:18:E3:BA"
+    ]
+  }
+}
