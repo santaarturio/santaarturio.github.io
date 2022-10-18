@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "HTEV8H9ZW8.com.sigmasoftware.clubapp",
-            "paths": ["/places/*", "/services/*"]
+            "paths": ["*"]
         }]
     }
 }
